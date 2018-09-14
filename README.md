@@ -16,7 +16,7 @@ $ yarn add typeorm-seed-extension -S
 $ npm install typeorm-seed-extension -S
 ```
 
-# This library is the separated seeds feature of the [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate#-seeding) project
+### This library is the separated seed feature of the [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate#-seeding) project
 
 # License
 
